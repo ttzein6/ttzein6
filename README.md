@@ -7,6 +7,7 @@ Web Developer / Flutter Developer
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [ttzein6@gmail.com](mailto:ttzein6@gmail.com)
 * 🧠  I'm learning web3.0 development
+* My portfolio website [https://tamerelzein.com](https://tamerelzein.com)
 
 ### Skills
 
